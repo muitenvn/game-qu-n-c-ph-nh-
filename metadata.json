@@ -1,0 +1,6 @@
+{
+  "name": "Cozy Cafe",
+  "description": "3D Isometric Cafe Tycoon simulation game with grid building, AI behavior trees for staff & sidewalk customers, inventory & dynamic menu pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
